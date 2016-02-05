@@ -8,7 +8,7 @@ title: Syllabus
 
 ## CS420: Operating Systems
 
-## Fall 2015
+## Fall 2016
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -19,7 +19,7 @@ title: Syllabus
  - **Section 102:**  M W F    2:00 PM - 2:50 PM<br>
  
 **Location:** KEC119<br>
-**Webpage:**  [http://ycpcs.github.io/cs420-fall2015/](http://ycpcs.github.io/cs420-fall2015/)
+**Webpage:**  [http://ycpcs.github.io/cs420-fall2016/](http://ycpcs.github.io/cs420-fall2016/)
 
 **Instructor:** [James Moscola](http://faculty.ycp.edu/~jmoscola/)<br>
 **Email:** <jmoscola@ycp.edu><br>
