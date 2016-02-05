@@ -4,7 +4,7 @@ course_number: CS420
 title: README
 ---
 
-This is the website for CS4200, Fall 2016 at York College of
+This is the website for CS420, Fall 2016 at York College of
 Pennsylvania.
 
 Unless indicated otherwise, all materials are
