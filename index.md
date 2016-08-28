@@ -20,7 +20,3 @@ All information related to the course will be posted here.
 * [Syllabus](syllabus.html)
 * [Schedule](schedule.html)
 * [Marmoset (submission server)](https://cs.ycp.edu/marmoset)
-
-<!-- vim:set wrap: ­-->
-<!-- vim:set linebreak: -->
-<!-- vim:set nolist: -->
