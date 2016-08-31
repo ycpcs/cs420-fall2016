@@ -10,8 +10,8 @@ Additional content will be added as it becomes available throughout the semester
 **Date**       |  **Topic**                                                                                        |  **Reading**          |  **Assignments**      
 :--------------|:--------------------------------------------------------------------------------------------------|:----------------------|:----------------------
                |                                                                                                   |                       |
-Wed, Aug 31    |  [Introduction & OS Overview](lectures/lecture1+2_introduction_and_os_architecture.pdf)           |  OSC9 § 1.1 - 1.2     |
-Fri, Sep 2     |  [OS Overview (Cont.)](lectures/lecture1+2_introduction_and_os_architecture.pdf)                  |  OSC9 § 1.3 - 1.13    |
+Wed, Aug 31    |  [Introduction](lectures/lecture1_introduction.pdf)                                               |  OSC9 § 1.1 - 1.2     |
+Fri, Sep 2     |  [OS Overview](lectures/lecture2_os_architecture.pdf)                                             |  OSC9 § 1.3 - 1.13    |
                |                                                                                                   |                       |
 Mon, Sep 5     |  **NO CLASS**                                                                                     |                       |
 Wed, Sep 7     |  [Operating System Services & System Calls](lectures/lecture3_services_and_system_calls.pdf)      |  OSC9 § 2.1 - 2.5     |            <!-- [Homework #1](homework/Homework_Assignment_1.txt) <br> Due 9/14 in class <br> -->
