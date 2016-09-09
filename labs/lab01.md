@@ -158,7 +158,7 @@ Files filecopy and filecopy_copy_2 are identical
 
 This lab will be graded on a 100 point scale. To receive full credit, your program must successfully compile and copy files. See below for more details:
 
- - **20 points** : Successfully compiles **WITH NO WARNINGS**
+ - **20 points** : Successfully compiles **WITH NO WARNINGS!**
  - **20 points** : Correct use of system calls
  - **20 points** : Successfully copies text files (e.g. TEST #1)
  - **20 points** : Successfully copies binary files (e.g. TEST #2)
