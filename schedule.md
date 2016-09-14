@@ -17,8 +17,8 @@ Mon, Sep 5     |  **NO CLASS**                                                  
 Wed, Sep 7     |  [Operating System Services & System Calls](lectures/lecture3_services_and_system_calls.pdf)      |  OSC9 § 2.1 - 2.5     |  [Homework #1](homework/Homework_Assignment_1.txt) <br> Due 9/14 in class <br>
 Fri, Sep 9     |  [Operating System Structure](lectures/lecture4_operating_system_structure.pdf)                   |  OSC9 § 2.6 - 2.11    |  [Lab #1](labs/lab01.html) <br> Due 9/16 by 11:59 PM
                |                                                                                                   |                       |
-Mon, Sep 12    |  [Processes](lectures/lecture5_processes.pdf)                                                     |  OSC9 § 3.1 - 3.3     |            <!-- [Homework #2](homework/Homework_Assignment_2.txt) <br> Due 9/18 in class -->
-Wed, Sep 14    |  [Interprocess Communication](lectures/lecture6a_interprocess_communication.pdf)                  |  OSC9 § 3.4 - 3.7     | 
+Mon, Sep 12    |  [Processes](lectures/lecture5_processes.pdf)                                                     |  OSC9 § 3.1 - 3.3     |
+Wed, Sep 14    |  [Interprocess Communication](lectures/lecture6a_interprocess_communication.pdf)                  |  OSC9 § 3.4 - 3.7     |  [Homework #2](homework/Homework_Assignment_2.txt) <br> Due 9/19 in class
 Fri, Sep 16    |  [Interprocess Communication (continued)](lectures/lecture6b_client_server_communication.pdf)     |                       |            <!-- [Lab #2](labs/lab02.html) <br> Due 10/?? by 11:59 PM --> 
                |                                                                                                   |                       |
 Mon, Sep 19    |  [Threads](lectures/lecture7_threads.pdf)                                                         |  OSC9 § 4.1 - 4.5     |            <!-- [Homework #3](homework/Homework_Assignment_3.txt) <br> Due 9/?? in class -->

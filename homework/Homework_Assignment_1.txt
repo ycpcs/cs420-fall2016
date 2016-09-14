@@ -2,7 +2,7 @@ CS420
 HW1
 To be submitted in class.
 
-1) What is the purpose of system calls?
+1) What is the purpose of a system call?
 
 
 
