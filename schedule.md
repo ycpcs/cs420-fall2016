@@ -24,8 +24,8 @@ Fri, Sep 16    |  [Interprocess Communication (continued)](lectures/lecture6b_cl
 Mon, Sep 19    |  [Threads](lectures/lecture7_threads.pdf)                                                         |  OSC9 § 4.1 - 4.5     |  [Homework #3](homework/Homework_Assignment_3.txt) <br> Due 9/26 in class
 Wed, Sep 21    |  [Multithreading & Threading Issues](lectures/lecture8_threading_issues.pdf)                      |  OSC9 § 4.6 - 4.8     |  
 Fri, Sep 23    |  More on Threading                                                                                |                       |  
-               |                                                                                                   |                       |       <!-- [Homework #4](homework/Homework_Assignment_4.txt) <br> Due 10/3 in class -->
-Mon, Sep 26    |  [CPU Scheduling](lectures/lecture9_cpu_scheduling.pdf)                                           |  OSC9 § 6.1 - 6.4     |
+               |                                                                                                   |                       |
+Mon, Sep 26    |  [CPU Scheduling](lectures/lecture9_cpu_scheduling.pdf)                                           |  OSC9 § 6.1 - 6.4     |  [Homework #4](homework/Homework_Assignment_4.txt) <br> Due 10/3 in class
 Wed, Sep 28    |  [CPU Scheduling (continued)](lectures/lecture9_cpu_scheduling.pdf)                               |                       |
 Fri, Sep 30    |  [Multiple-Processor Scheduling](lectures/lecture10_multiprocessor_scheduling.pdf)                |  OSC9 § 6.5 - 6.9     |
                |                                                                                                   |                       |
