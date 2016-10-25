@@ -38,6 +38,6 @@ b) Is the system in a safe state?  If so, provide a sequence that would allow al
 processes to run to completion
 
 c) If a request from process P1 arrives for (0,4,2,0), can the request be granted 
-immediately (i.e. is would the system still be in a safe state if the request were
+immediately (i.e. would the system still be in a safe state if the request were
 granted)?  If so, provide a safe sequence that would allow all processes to run to
 completion.
