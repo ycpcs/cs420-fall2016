@@ -43,10 +43,10 @@ Fri, Oct 21    |  [Deadlock Avoidance](lectures/lecture13+14+15_deadlock.pdf)   
                |                                                                                                   |                       |
 Mon, Oct 24    |  [Deadlock Detection, and Recovery](lectures/lecture13+14+15_deadlock.pdf)                        |  OSC9 § 7.6 - 7.8     |
 Wed, Oct 26    |  [Main Memory - Swapping and Allocation](lectures/lecture16_main_memory.pdf)                      |  OSC9 § 8.1 - 8.4     |
-Fri, Oct 28    |  [Paging & Paging Tables](lectures/lecture17_paging_and_page_tables.pdf)                          |  OSC9 § 8.5 - 8.6     |            <!-- [Homework #6](homework/Homework_Assignment_6.txt) <br> Due 11/?? in class -->
+Fri, Oct 28    |  [Paging & Paging Tables](lectures/lecture17_paging_and_page_tables.pdf)                          |  OSC9 § 8.5 - 8.6     |  [Homework #6](homework/Homework_Assignment_6.txt) <br> Due 11/7 in class -->
                |                                                                                                   |                       |
 Mon, Oct 31    |  [Virtual Memory](lectures/lecture18_virtual_memory.pdf)                                          |  OSC9 § 9.2 - 9.6     |  
-Wed, Nov 2     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |            <!-- [Homework #7](homework/Homework_Assignment_7.txt) <br> Due 11/?? in class -->
+Wed, Nov 2     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |            <!-- [Homework #7](homework/Homework_Assignment_7.txt) <br> Due 11/7 in class -->
 Fri, Nov 4     |  [Virtual Memory (continued)](lectures/lecture18_virtual_memory.pdf)                              |                       |
                |                                                                                                   |                       |
 Mon, Nov 7     |  Review for Exam #2                                                                               |                       |
