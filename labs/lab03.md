@@ -181,12 +181,12 @@ This lab will be graded on a 100 point scale as follows:
  - **10 points** : main process successfully writes the initial '0' to the file
  - **5 points** : main process correctly creates a named semaphore
  - **10 points** : main process correctly forks off P new processe
- - **5 points** : main process correctly closes named semaphore
+ - **10 points** : main process correctly closes named semaphore
  - **10 points** : fileWriter process correctly receives arguments passed from main process
- - **5 points** : fileWriter process correctly attaches to named semaphore
+ - **10 points** : fileWriter process correctly attaches to named semaphore
  - **10 points** : fileWriter process correctly spawns T new threads
  - **10 points** : fileWriter threads correctly read from, and update the shared file
- - **30 points** : all data is written correctly to the shared data file
+ - **15 points** : all data is written correctly to the shared data file
 
 You may lose additional points for writing bad code (e.g. not checking error conditions, not closing files when you're done with them, etc.).
 
