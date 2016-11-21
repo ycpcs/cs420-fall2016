@@ -57,7 +57,7 @@ Mon, Nov 14    |  [File-System Implementation](lectures/lecture20+21_file_system
 Wed, Nov 16    |  [File-System Implementation (continued)](lectures/lecture20+21_file_system_implementation.pdf)   |                       |
 Fri, Nov 18    |  [Mass Storage Structure](lectures/lecture22_mass_storage_structure.pdf)                          |  OSC9 § 10.1 - 10.6   |
                |                                                                                                   |                       |
-Mon, Nov 21    |  [RAID Structure](lectures/lecture23_RAID.pdf)                                                    |  OSC9 § 10.7 - 10.9   | [Homework #8](homework/Homework_Assignment_8.txt) <br> Due 12/2 in class
+Mon, Nov 21    |  [RAID Structure](lectures/lecture23_RAID.pdf)                                                    |  OSC9 § 10.7 - 10.9   |  [Homework #8](homework/Homework_Assignment_8.txt) <br> Due 12/2 in class
 Wed, Nov 23    |  **NO CLASS - Thanksgiving Break**                                                                |                       |
 Fri, Nov 25    |  **NO CLASS - Thanksgiving Break**                                                                |                       |
                |                                                                                                   |                       |
